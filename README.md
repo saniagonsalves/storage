@@ -8,4 +8,4 @@ Steps to run:
 5. Monitor log using tail -f run.log
 
 #Architecture
-<img src="images/arch.jpg" />
+<img src="arch.JPG" />
