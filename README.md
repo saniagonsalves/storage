@@ -6,3 +6,6 @@ Steps to run:
 3. Enter required properties in application.properties
 4. Run the application using sudo nohup java -jar com.saniagonsalves.storage.StorageApplication > run.log 2>&1 &
 5. Monitor log using tail -f run.log
+
+#Architecture
+<img src="images/arch.jpg" />
